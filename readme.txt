@@ -1,7 +1,5 @@
-ATUALIZAÇÃO (sem Python): o site roda só no navegador. Três jeitos de abrir (do melhor para o mais simples):
-  A) GitHub Pages: o professor abre o link https://rafaelrossimoraes.github.io/Pipoquetas/ (precisa ativar em Settings > Pages).
-  B) INICIAR.bat: dois cliques no Windows. Abre o site em http://localhost:8080 (usa o PowerShell, sem Python).
-  C) Dois cliques em index.html: funciona, mas o trailer abre numa aba do YouTube (o player embutido não toca por arquivo).
+ATUALIZAÇÃO (sem Python): o site roda só no navegador.
+
 Use Chrome ou Edge. Cadastros e filmes adicionados ficam no localStorage do navegador; "Baixar clientes.json" (tela de login) exporta os cadastros.
 Contas de demonstração (senha 123456): usuario, empresa, administrador. Código para criar administrador: PIPOQUETAS-ADMIN (js/api-local.js).
 Python só é usado por quem quiser regenerar os filmes (gerar_dados_filmes.py), e grava js/dados-filmes.js.
@@ -16,8 +14,7 @@ Como funciona o código (guia de leitura e manutenção).
 Não precisa de servidor nem instalação. Abra o arquivo abaixo no navegador:
   pipoquetas/index.html
 Todas as páginas são HTML + CSS + JavaScript puros e os dados ficam num
-arquivo local (js/dados-filmes.js). Funciona offline (só Font Awesome e os
-trailers do YouTube exigem internet).
+arquivo local (js/dados-filmes.js). Funciona offline.
 
 Login de demonstração (tela login.html, senha sempre "123456"):
   usuario        -> index.html     (perfil comum)
