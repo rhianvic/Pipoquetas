@@ -3396,5 +3396,1800 @@
       "after-impact",
       "dilwale-vai-levar-a-noiva"
     ]
+  },
+  {
+    "id": "your-name",
+    "tmdbId": 372058,
+    "titulo": "Your Name.",
+    "ano": "2016",
+    "duracao": "1h46min",
+    "generos": [
+      "Animação",
+      "Romance",
+      "Drama"
+    ],
+    "classificacao": "L",
+    "avaliacao": 8.5,
+    "nota": 4.2,
+    "numAvaliacoes": 13093,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/your-name.jpg",
+    "secao": "recomendados",
+    "sinopse": "Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.",
+    "trailerYoutubeId": "TYku4P7MHdo",
+    "elenco": [
+      {
+        "personagem": "Taki Tachibana (voice)",
+        "ator": "Ryunosuke Kamiki",
+        "foto": "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+      },
+      {
+        "personagem": "Mitsuha Miyamizu (voice)",
+        "ator": "上白石萌音",
+        "foto": "https://image.tmdb.org/t/p/w185/cPydoy2sSqFDsbXeBPmzQGPmq0R.jpg"
+      },
+      {
+        "personagem": "Katsuhiko Teshigawara (voice)",
+        "ator": "成田凌",
+        "foto": "https://image.tmdb.org/t/p/w185/nuDFEGyuL4b1u5JUNee7WmJfgp3.jpg"
+      },
+      {
+        "personagem": "Sayaka Natori (voice)",
+        "ator": "Aoi Yuki",
+        "foto": "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+      },
+      {
+        "personagem": "Tsukasa Fujii (voice)",
+        "ator": "Nobunaga Shimazaki",
+        "foto": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+      },
+      {
+        "personagem": "Shinta Takagi (voice)",
+        "ator": "Kaito Ishikawa",
+        "foto": "https://image.tmdb.org/t/p/w185/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+      }
+    ],
+    "ondeAssistir": [],
+    "relacionados": [
+      "titanic",
+      "batman-a-queda-do-morcego-parte-1",
+      "coracoes-jovens"
+    ]
+  },
+  {
+    "id": "pulp-fiction-tempo-de-violencia",
+    "tmdbId": 680,
+    "titulo": "Pulp Fiction: Tempo de Violência",
+    "ano": "1994",
+    "duracao": "2h34min",
+    "generos": [
+      "Thriller",
+      "Crime",
+      "Comédia"
+    ],
+    "classificacao": "18",
+    "avaliacao": 8.5,
+    "nota": 4.2,
+    "numAvaliacoes": 31077,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/pulp-fiction-tempo-de-violencia.jpg",
+    "secao": "recomendados",
+    "sinopse": "Vincent Vega e Jules Winnfield são dois assassinos profissionais que trabalham fazendo cobranças para Marsellus Wallace, um poderosos gângster. Vega é forçado a sair com a garota do chefe, temendo passar dos limites. Enquanto isso, o pugilista Butch Coolidge se mete em apuros por ganhar uma luta que deveria perder.",
+    "trailerYoutubeId": "im-vRitDbTk",
+    "elenco": [
+      {
+        "personagem": "Vincent Vega",
+        "ator": "John Travolta",
+        "foto": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+      },
+      {
+        "personagem": "Jules Winnfield",
+        "ator": "Samuel L. Jackson",
+        "foto": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+      },
+      {
+        "personagem": "Mia Wallace",
+        "ator": "Uma Thurman",
+        "foto": "https://image.tmdb.org/t/p/w185/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
+      },
+      {
+        "personagem": "Butch Coolidge",
+        "ator": "Bruce Willis",
+        "foto": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+      },
+      {
+        "personagem": "Marsellus Wallace",
+        "ator": "Ving Rhames",
+        "foto": "https://image.tmdb.org/t/p/w185/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+      },
+      {
+        "personagem": "The Wolf",
+        "ator": "Harvey Keitel",
+        "foto": "https://image.tmdb.org/t/p/w185/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Apple TV Store",
+        "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+        "url": "https://www.themoviedb.org/movie/680-pulp-fiction/watch?locale=BR",
+        "preco": "Alugar"
+      },
+      {
+        "nome": "Amazon Video",
+        "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+        "url": "https://www.themoviedb.org/movie/680-pulp-fiction/watch?locale=BR",
+        "preco": "Alugar"
+      },
+      {
+        "nome": "Google Play Movies",
+        "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png",
+        "url": "https://www.themoviedb.org/movie/680-pulp-fiction/watch?locale=BR",
+        "preco": "Alugar"
+      }
+    ],
+    "relacionados": [
+      "a-captura",
+      "batman-o-cavaleiro-das-trevas",
+      "parasita"
+    ]
+  },
+  {
+    "id": "obsessao",
+    "tmdbId": 1339713,
+    "titulo": "Obsessão",
+    "ano": "2026",
+    "duracao": "1h40min",
+    "generos": [
+      "Terror",
+      "Thriller"
+    ],
+    "classificacao": "18",
+    "avaliacao": 8.2,
+    "nota": 4.1,
+    "numAvaliacoes": 6090,
+    "plataforma": "Claro tv+",
+    "imagem": "assets/img-filmes/obsessao.jpg",
+    "secao": "mais-assistidos",
+    "sinopse": "Sem grandes pretensões, um romântico incurável compra um brinquedo que promete realizar desejos únicos. Ele quebra o artefato misterioso enquanto pede para conquistar a crush e consegue exatamente o que desejava, mas descobre que a consequência é sinistra.",
+    "trailerYoutubeId": "gMC8kkwbIQQ",
+    "elenco": [
+      {
+        "personagem": "Bear",
+        "ator": "Michael Johnston",
+        "foto": "https://image.tmdb.org/t/p/w185/fbpcCkBzu43kMdlXxEAMuLhseL8.jpg"
+      },
+      {
+        "personagem": "Nikki",
+        "ator": "Inde Navarrette",
+        "foto": "https://image.tmdb.org/t/p/w185/qlNBUGON8FebgzcqVhhRSVFYSa5.jpg"
+      },
+      {
+        "personagem": "Ian",
+        "ator": "Cooper Tomlinson",
+        "foto": "https://image.tmdb.org/t/p/w185/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
+      },
+      {
+        "personagem": "Sarah",
+        "ator": "Megan Lawless",
+        "foto": "https://image.tmdb.org/t/p/w185/6qW63YEgB1qro01sM7T2HvhtFkh.jpg"
+      },
+      {
+        "personagem": "Carter",
+        "ator": "Andy Richter",
+        "foto": "https://image.tmdb.org/t/p/w185/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg"
+      },
+      {
+        "personagem": "Viola",
+        "ator": "Haley Fitzgerald",
+        "foto": "https://image.tmdb.org/t/p/w185/xbKqZ5Epz0IaSCPLXDnByDACw2X.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Claro tv+",
+        "logo": "https://image.tmdb.org/t/p/w92/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+        "url": "https://www.themoviedb.org/movie/1339713-obsession/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Apple TV Store",
+        "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+        "url": "https://www.themoviedb.org/movie/1339713-obsession/watch?locale=BR",
+        "preco": "Alugar"
+      },
+      {
+        "nome": "Amazon Video",
+        "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+        "url": "https://www.themoviedb.org/movie/1339713-obsession/watch?locale=BR",
+        "preco": "Alugar"
+      }
+    ],
+    "relacionados": [
+      "sobrenatural-agora-entre-nos",
+      "protocolo-de-exterminio",
+      "resident-evil"
+    ]
+  },
+  {
+    "id": "harakiri",
+    "tmdbId": 14537,
+    "titulo": "Harakiri",
+    "ano": "1962",
+    "duracao": "2h15min",
+    "generos": [
+      "Ação",
+      "Drama",
+      "História"
+    ],
+    "classificacao": "",
+    "avaliacao": 8.5,
+    "nota": 4.2,
+    "numAvaliacoes": 1302,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/harakiri.jpg",
+    "secao": "recomendados",
+    "sinopse": "No século 18, o Japão não está mais em guerra e o país é governado com firmeza. Hanshiro Tsugumo, um dos muitos ronin (samurais errantes) desempregados, decide bater à porta do poderoso clã Ii. Recebido por Kageyu Saito, o intendente do clã, ele pede permissão para cometer suicídio por harakiri na residência. Tentando dissuadi-lo, Saito começa a lhe contar a história de Motome Chijiwa, outro ronin que também queria realizar o mesmo ritual no local.",
+    "trailerYoutubeId": "gfABwM-Ppng",
+    "elenco": [
+      {
+        "personagem": "Hanshiro Tsugumo",
+        "ator": "Tatsuya Nakadai",
+        "foto": "https://image.tmdb.org/t/p/w185/4LygOe0vFQplLIft5IUWI5OewPX.jpg"
+      },
+      {
+        "personagem": "Motome Chijiiwa",
+        "ator": "石濱朗",
+        "foto": "https://image.tmdb.org/t/p/w185/sQC3XSIR0LeYPz11VJt8nJoeRKY.jpg"
+      },
+      {
+        "personagem": "Miho Tsugumo",
+        "ator": "岩下志麻",
+        "foto": "https://image.tmdb.org/t/p/w185/1dMsifeO8GoAbA3ycEGYni3w0E1.jpg"
+      },
+      {
+        "personagem": "Hikokuro Omodaka",
+        "ator": "丹波哲郎",
+        "foto": "https://image.tmdb.org/t/p/w185/ihugQ2afio03fcKSGXdkcQKTVmt.jpg"
+      },
+      {
+        "personagem": "Tango Inaba",
+        "ator": "三島雅夫",
+        "foto": "https://image.tmdb.org/t/p/w185/bfPdwV4TCWJ7jjf16MFNsOndHWB.jpg"
+      },
+      {
+        "personagem": "Hayato Yazaki",
+        "ator": "中谷一郎",
+        "foto": "https://image.tmdb.org/t/p/w185/yGWAZguLnWvXW9xcAIE7Eo6VGfU.jpg"
+      }
+    ],
+    "ondeAssistir": [],
+    "relacionados": [
+      "o-rebelde",
+      "filme-1917",
+      "estrelas-alem-do-tempo"
+    ]
+  },
+  {
+    "id": "tres-homens-em-conflito",
+    "tmdbId": 429,
+    "titulo": "Três Homens em Conflito",
+    "ano": "1966",
+    "duracao": "2h43min",
+    "generos": [
+      "Faroeste"
+    ],
+    "classificacao": "14",
+    "avaliacao": 8.5,
+    "nota": 4.2,
+    "numAvaliacoes": 10031,
+    "plataforma": "Looke",
+    "imagem": "assets/img-filmes/tres-homens-em-conflito.jpg",
+    "secao": "recomendados",
+    "sinopse": "Durante o auge da Guerra Civil, um misterioso pistoleiro vaga pela fronteira do oeste. Ele não possui um lar, lealdade ou companhia... Até que encontra dois estrangeiros, que são tão brutos e desapegados quanto ele. Unidos pelo destino, os três homens juntam suas forças para tentar encontrar uma fortuna em ouro roubado. Mas trabalho em equipe não é uma coisa natural para voluntariosos pistoleiros, e eles logo descobrem que seu maior desafio é concentrar-se em sua perigosa missão — e em manterem-se vivos — atravessando um país arrasado pela guerra.",
+    "trailerYoutubeId": "WCnRSl24FPA",
+    "elenco": [
+      {
+        "personagem": "Blondie",
+        "ator": "Clint Eastwood",
+        "foto": "https://image.tmdb.org/t/p/w185/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
+      },
+      {
+        "personagem": "Tuco Ramirez",
+        "ator": "Eli Wallach",
+        "foto": "https://image.tmdb.org/t/p/w185/tX1kYpW1K8XjEA3i9FXrgFqNAaw.jpg"
+      },
+      {
+        "personagem": "Sentenza / Angel Eyes",
+        "ator": "Lee Van Cleef",
+        "foto": "https://image.tmdb.org/t/p/w185/prcDQR2pp0b92j0G8rnX5kQeQk0.jpg"
+      },
+      {
+        "personagem": "Alcoholic Union Captain",
+        "ator": "Aldo Giuffrè",
+        "foto": "https://image.tmdb.org/t/p/w185/aT6eECl1R3YGYL4KatyIQrq0zG8.jpg"
+      },
+      {
+        "personagem": "Father Pablo Ramirez",
+        "ator": "Luigi Pistilli",
+        "foto": "https://image.tmdb.org/t/p/w185/bH5vmD2CMBHzJyBe0P0bL6iTUNL.jpg"
+      },
+      {
+        "personagem": "Maria",
+        "ator": "Rada Rassimov",
+        "foto": "https://image.tmdb.org/t/p/w185/xJhnSHn2vKp0MJ2KZaihrgqq0Mc.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Looke",
+        "logo": "https://image.tmdb.org/t/p/w92/jsAseYgBGuHRkl0sJs9AAQHHU8P.png",
+        "url": "https://www.themoviedb.org/movie/429-il-buono-il-brutto-il-cattivo/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Oldflix",
+        "logo": "https://image.tmdb.org/t/p/w92/86Ja8MBdaS8Fkjsegy3fQsUgNMu.png",
+        "url": "https://www.themoviedb.org/movie/429-il-buono-il-brutto-il-cattivo/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "MGM+ Apple TV Channel",
+        "logo": "https://image.tmdb.org/t/p/w92/oeic4RyNDK988h5sZctewo6uRwO.png",
+        "url": "https://www.themoviedb.org/movie/429-il-buono-il-brutto-il-cattivo/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "MGM Plus Amazon Channel",
+        "logo": "https://image.tmdb.org/t/p/w92/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+        "url": "https://www.themoviedb.org/movie/429-il-buono-il-brutto-il-cattivo/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Apple TV Store",
+        "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+        "url": "https://www.themoviedb.org/movie/429-il-buono-il-brutto-il-cattivo/watch?locale=BR",
+        "preco": "Alugar"
+      }
+    ],
+    "relacionados": [
+      "duna-parte-2",
+      "interestelar",
+      "blade-runner-2049"
+    ]
+  },
+  {
+    "id": "forrest-gump-o-contador-de-historias",
+    "tmdbId": 13,
+    "titulo": "Forrest Gump: O Contador de Histórias",
+    "ano": "1994",
+    "duracao": "2h22min",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "classificacao": "14",
+    "avaliacao": 8.5,
+    "nota": 4.2,
+    "numAvaliacoes": 30649,
+    "plataforma": "Paramount Plus",
+    "imagem": "assets/img-filmes/forrest-gump-o-contador-de-historias.jpg",
+    "secao": "recomendados",
+    "sinopse": "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.",
+    "trailerYoutubeId": "pEd8xf7W4xw",
+    "elenco": [
+      {
+        "personagem": "Forrest Gump",
+        "ator": "Tom Hanks",
+        "foto": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "personagem": "Jenny Curran",
+        "ator": "Robin Wright",
+        "foto": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+      },
+      {
+        "personagem": "Lieutenant Dan Taylor",
+        "ator": "Gary Sinise",
+        "foto": "https://image.tmdb.org/t/p/w185/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+      },
+      {
+        "personagem": "Mrs. Gump",
+        "ator": "Sally Field",
+        "foto": "https://image.tmdb.org/t/p/w185/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+      },
+      {
+        "personagem": "Bubba Blue",
+        "ator": "Mykelti Williamson",
+        "foto": "https://image.tmdb.org/t/p/w185/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+      },
+      {
+        "personagem": "Young Forrest Gump",
+        "ator": "Michael Conner Humphreys",
+        "foto": "https://image.tmdb.org/t/p/w185/irYRs3COggVHg91jL3CrlCIWmnx.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Paramount Plus",
+        "logo": "https://image.tmdb.org/t/p/w92/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+        "url": "https://www.themoviedb.org/movie/13-forrest-gump/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Paramount+ Amazon Channel",
+        "logo": "https://image.tmdb.org/t/p/w92/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+        "url": "https://www.themoviedb.org/movie/13-forrest-gump/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Paramount Plus Premium",
+        "logo": "https://image.tmdb.org/t/p/w92/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+        "url": "https://www.themoviedb.org/movie/13-forrest-gump/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Apple TV Store",
+        "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+        "url": "https://www.themoviedb.org/movie/13-forrest-gump/watch?locale=BR",
+        "preco": "Alugar"
+      },
+      {
+        "nome": "Amazon Video",
+        "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+        "url": "https://www.themoviedb.org/movie/13-forrest-gump/watch?locale=BR",
+        "preco": "Alugar"
+      }
+    ],
+    "relacionados": [
+      "dilwale-vai-levar-a-noiva",
+      "titanic",
+      "coracoes-jovens"
+    ]
+  },
+  {
+    "id": "digger",
+    "tmdbId": 1248832,
+    "titulo": "Digger",
+    "ano": "2026",
+    "duracao": "2h09min",
+    "generos": [
+      "Comédia",
+      "Drama"
+    ],
+    "classificacao": "14",
+    "avaliacao": 7.5,
+    "nota": 3.8,
+    "numAvaliacoes": 344,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/digger.jpg",
+    "secao": "mais-assistidos",
+    "sinopse": "O homem mais poderoso do mundo embarca em uma missão frenética para provar que é o salvador da humanidade, antes que o desastre desencadeado por ele destrua tudo.",
+    "trailerYoutubeId": "job8V254NAE",
+    "elenco": [
+      {
+        "personagem": "Digger Rockwell",
+        "ator": "Tom Cruise",
+        "foto": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+      },
+      {
+        "personagem": "Dr. Nirav Ganesh",
+        "ator": "Riz Ahmed",
+        "foto": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+      },
+      {
+        "personagem": "President Compson",
+        "ator": "John Goodman",
+        "foto": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+      },
+      {
+        "personagem": "Emma Rockwell",
+        "ator": "Sandra Hüller",
+        "foto": "https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+      },
+      {
+        "personagem": "Vice President Eddie",
+        "ator": "Michael Stuhlbarg",
+        "foto": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+      },
+      {
+        "personagem": "Kenny",
+        "ator": "Jesse Plemons",
+        "foto": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+      }
+    ],
+    "ondeAssistir": [],
+    "relacionados": [
+      "dilwale-vai-levar-a-noiva",
+      "parasita",
+      "forrest-gump-o-contador-de-historias"
+    ]
+  },
+  {
+    "id": "cosas-imposibles",
+    "tmdbId": 667257,
+    "titulo": "Cosas Imposibles",
+    "ano": "2021",
+    "duracao": "1h28min",
+    "generos": [
+      "Família",
+      "Drama"
+    ],
+    "classificacao": "14",
+    "avaliacao": 8.5,
+    "nota": 4.2,
+    "numAvaliacoes": 447,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/cosas-imposibles.jpg",
+    "secao": "recomendados",
+    "sinopse": "Matilde, uma mulher na casa dos sessenta e viveu com seu marido, Porfirio, desde os 15 anos, numa relação de violência e desprezo. Miguel, seu vizinho, um jovem com tino para negócios sente pena de Matilde e pouco a pouco criarão fortes laços de amizade, o que lhes ajudará a liberar-se de de suas antigas crenças e viver a vida que sempre quiseram.",
+    "trailerYoutubeId": "",
+    "elenco": [
+      {
+        "personagem": "Matilde",
+        "ator": "Nora Velázquez",
+        "foto": "https://image.tmdb.org/t/p/w185/lh3fpLrabTkEuJ6rDGaighy1N1C.jpg"
+      },
+      {
+        "personagem": "Miguel",
+        "ator": "Benny Emmanuel",
+        "foto": "https://image.tmdb.org/t/p/w185/rSqiumttAOg08Auypm5Z7FpdvMS.jpg"
+      },
+      {
+        "personagem": "Eugenia",
+        "ator": "Luisa Huertas",
+        "foto": "https://image.tmdb.org/t/p/w185/pk2t0f2EcRGxg55xG9gkbyk2xkH.jpg"
+      },
+      {
+        "personagem": "Porfirio",
+        "ator": "Salvador Garcini",
+        "foto": "assets/avatar.png"
+      },
+      {
+        "personagem": "Lalo",
+        "ator": "Andrés Delgado",
+        "foto": "https://image.tmdb.org/t/p/w185/gq7nwfzsF9R81qGCc2tlzgO2FI7.jpg"
+      },
+      {
+        "personagem": "Laura",
+        "ator": "Gabriela Cartol",
+        "foto": "https://image.tmdb.org/t/p/w185/7ebowmrD1V6eM26db5fXxvEWN7H.jpg"
+      }
+    ],
+    "ondeAssistir": [],
+    "relacionados": [
+      "interestelar",
+      "blade-runner-2049",
+      "filme-1917"
+    ]
+  },
+  {
+    "id": "noticias-em-perigo",
+    "tmdbId": 1389172,
+    "titulo": "Notícias em Perigo",
+    "ano": "2026",
+    "duracao": "1h56min",
+    "generos": [
+      "Crime",
+      "Thriller"
+    ],
+    "classificacao": "12",
+    "avaliacao": 8.1,
+    "nota": 4.0,
+    "numAvaliacoes": 4,
+    "plataforma": "Netflix",
+    "imagem": "assets/img-filmes/noticias-em-perigo.jpg",
+    "secao": "mais-assistidos",
+    "sinopse": "Parineeti Chopra e Deven Bhojani estrelam este suspense policial em que um protesto local leva dois repórteres a investigar a fundo um esquema de mineração ilegal.",
+    "trailerYoutubeId": "",
+    "elenco": [
+      {
+        "personagem": "Sandhya",
+        "ator": "Parineeti Chopra",
+        "foto": "https://image.tmdb.org/t/p/w185/DDBuGxqPZOcb2o9bk3ihPQdBn8.jpg"
+      },
+      {
+        "personagem": "Vinod",
+        "ator": "Deven Bhojani",
+        "foto": "https://image.tmdb.org/t/p/w185/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg"
+      },
+      {
+        "personagem": "",
+        "ator": "Adil Hussain",
+        "foto": "https://image.tmdb.org/t/p/w185/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg"
+      },
+      {
+        "personagem": "",
+        "ator": "Shekhar Suman",
+        "foto": "https://image.tmdb.org/t/p/w185/u6rcpRPOuqV4ONOMt6NGSgyR1w2.jpg"
+      },
+      {
+        "personagem": "",
+        "ator": "Amol Palekar",
+        "foto": "https://image.tmdb.org/t/p/w185/kUnejDjArzNVxouIaIj3WxxC83G.jpg"
+      },
+      {
+        "personagem": "",
+        "ator": "Nassar",
+        "foto": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Netflix",
+        "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "url": "https://www.themoviedb.org/movie/1389172/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Netflix Standard with Ads",
+        "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+        "url": "https://www.themoviedb.org/movie/1389172/watch?locale=BR",
+        "preco": "Assine"
+      }
+    ],
+    "relacionados": [
+      "a-captura",
+      "batman-o-cavaleiro-das-trevas",
+      "pulp-fiction-tempo-de-violencia"
+    ]
+  },
+  {
+    "id": "tumulo-dos-vagalumes",
+    "tmdbId": 12477,
+    "titulo": "Túmulo dos Vagalumes",
+    "ano": "1988",
+    "duracao": "1h29min",
+    "generos": [
+      "Animação",
+      "Drama",
+      "Guerra"
+    ],
+    "classificacao": "14",
+    "avaliacao": 8.4,
+    "nota": 4.2,
+    "numAvaliacoes": 6875,
+    "plataforma": "Netflix",
+    "imagem": "assets/img-filmes/tumulo-dos-vagalumes.jpg",
+    "secao": "recomendados",
+    "sinopse": "Em meio aos bombardeios que devastam o Japão nos últimos meses da Segunda Guerra Mundial, dois irmãos, Seita e Setsuko, lutam para sobreviver em uma realidade marcada pela fome, pelo abandono e pela perda.",
+    "trailerYoutubeId": "QZbcx0WNrMU",
+    "elenco": [
+      {
+        "personagem": "Seita (voice)",
+        "ator": "辰巳努",
+        "foto": "https://image.tmdb.org/t/p/w185/opRQfqXqAcUaqLMNARi78S7KZVa.jpg"
+      },
+      {
+        "personagem": "Setsuko (voice)",
+        "ator": "白石綾乃",
+        "foto": "https://image.tmdb.org/t/p/w185/ltxZJRUAMsKqnflUKw1zlSjMhcu.jpg"
+      },
+      {
+        "personagem": "Mother (voice)",
+        "ator": "志乃原良子",
+        "foto": "https://image.tmdb.org/t/p/w185/yvpARjDfEri1a3nh7OXywzWb1Xn.jpg"
+      },
+      {
+        "personagem": "Auntie (voice)",
+        "ator": "山口朱美",
+        "foto": "assets/avatar.png"
+      },
+      {
+        "personagem": "Woman who takes care of Setsuko (voice)",
+        "ator": "Masayo Sakai",
+        "foto": "assets/avatar.png"
+      },
+      {
+        "personagem": "Obayashi Chairman (voice)",
+        "ator": "Kozo Hashida",
+        "foto": "assets/avatar.png"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Netflix",
+        "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "url": "https://www.themoviedb.org/movie/12477/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Netflix Standard with Ads",
+        "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+        "url": "https://www.themoviedb.org/movie/12477/watch?locale=BR",
+        "preco": "Assine"
+      }
+    ],
+    "relacionados": [
+      "filme-1917",
+      "batman-a-queda-do-morcego-parte-1",
+      "a-lista-de-schindler"
+    ]
+  },
+  {
+    "id": "o-rebelde",
+    "tmdbId": 977942,
+    "titulo": "O Rebelde",
+    "ano": "2026",
+    "duracao": "2h07min",
+    "generos": [
+      "História",
+      "Drama",
+      "Ação"
+    ],
+    "classificacao": "16",
+    "avaliacao": 8.0,
+    "nota": 4.0,
+    "numAvaliacoes": 306,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/o-rebelde.jpg",
+    "secao": "mais-assistidos",
+    "sinopse": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
+    "trailerYoutubeId": "A2MA-QCwDGU",
+    "elenco": [
+      {
+        "personagem": "Ploughman",
+        "ator": "Andrew Garfield",
+        "foto": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+      },
+      {
+        "personagem": "John Ball",
+        "ator": "Jamie Bell",
+        "foto": "https://image.tmdb.org/t/p/w185/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+      },
+      {
+        "personagem": "Archbishop Sudbury",
+        "ator": "Stephen Dillane",
+        "foto": "https://image.tmdb.org/t/p/w185/qjIa6pXD4Z7nL7nH2LxyHDfxNgC.jpg"
+      },
+      {
+        "personagem": "King Richard II",
+        "ator": "Woody Norman",
+        "foto": "https://image.tmdb.org/t/p/w185/jQlx4bAGAmQfvzEuXw6A9cEmb95.jpg"
+      },
+      {
+        "personagem": "Treasurer Hales",
+        "ator": "Tom Hollander",
+        "foto": "https://image.tmdb.org/t/p/w185/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+      },
+      {
+        "personagem": "Wat Tyler",
+        "ator": "Cosmo Jarvis",
+        "foto": "https://image.tmdb.org/t/p/w185/1kgghZ558CxZCJip5ufO6BAqUGp.jpg"
+      }
+    ],
+    "ondeAssistir": [],
+    "relacionados": [
+      "harakiri",
+      "filme-1917",
+      "estrelas-alem-do-tempo"
+    ]
+  },
+  {
+    "id": "os-sete-samurais",
+    "tmdbId": 346,
+    "titulo": "Os Sete Samurais",
+    "ano": "1954",
+    "duracao": "3h27min",
+    "generos": [
+      "Ação",
+      "Drama"
+    ],
+    "classificacao": "10",
+    "avaliacao": 8.5,
+    "nota": 4.2,
+    "numAvaliacoes": 4410,
+    "plataforma": "Arte Amazon Channel",
+    "imagem": "assets/img-filmes/os-sete-samurais.jpg",
+    "secao": "recomendados",
+    "sinopse": "Um bando de bandidos aterroriza os habitantes de uma pequena cidade, saqueando-os periodicamente sem piedade. Para repelir estes ataques, os aldeões decidem contratar mercenários. Por fim, obtêm os serviços de 7 guerreiros, 7 samurais dispostos a defendê-los em troca apenas de abrigo e comida.",
+    "trailerYoutubeId": "RsRN65PlaIM",
+    "elenco": [
+      {
+        "personagem": "Kikuchiyo",
+        "ator": "Toshirô Mifune",
+        "foto": "https://image.tmdb.org/t/p/w185/cZ5ybA7cDA0EBMaM5jX2f7RNBVb.jpg"
+      },
+      {
+        "personagem": "Kambei Shimada",
+        "ator": "志村喬",
+        "foto": "https://image.tmdb.org/t/p/w185/ydyAm2vyBbEPZRICIMqqjDm0NM9.jpg"
+      },
+      {
+        "personagem": "Gorobei Katayama",
+        "ator": "稲葉義男",
+        "foto": "https://image.tmdb.org/t/p/w185/5qIAqM5PegWTNq67qNofz78fb6U.jpg"
+      },
+      {
+        "personagem": "Kyuzo",
+        "ator": "宮口精二",
+        "foto": "https://image.tmdb.org/t/p/w185/mAGkZlsowKzgpvvi40mRLU4vA53.jpg"
+      },
+      {
+        "personagem": "Heihachi Hayashida",
+        "ator": "千秋実",
+        "foto": "https://image.tmdb.org/t/p/w185/9E3efYEg8pxANdfVLqYGiX8zJE8.jpg"
+      },
+      {
+        "personagem": "Shichiroji",
+        "ator": "加東大介",
+        "foto": "https://image.tmdb.org/t/p/w185/dTcLO2XWLwp6RiJTpwDjxzbnuSp.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Arte Amazon Channel",
+        "logo": "https://image.tmdb.org/t/p/w92/g2hqzXdjzX9PUS2iZtteTGonUxJ.png",
+        "url": "https://www.themoviedb.org/movie/346/watch?locale=BR",
+        "preco": "Assine"
+      }
+    ],
+    "relacionados": [
+      "batman-a-queda-do-morcego-parte-1",
+      "meu-querido-assassino",
+      "harakiri"
+    ]
+  },
+  {
+    "id": "v-h-s-mixtape",
+    "tmdbId": 1742441,
+    "titulo": "V/H/S/Mixtape",
+    "ano": "2026",
+    "duracao": "1h38min",
+    "generos": [
+      "Terror",
+      "Música"
+    ],
+    "classificacao": "",
+    "avaliacao": 4.4,
+    "nota": 2.2,
+    "numAvaliacoes": 17,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/v-h-s-mixtape.jpg",
+    "secao": "mais-assistidos",
+    "sinopse": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
+    "trailerYoutubeId": "GrIouRKyPDw",
+    "elenco": [
+      {
+        "personagem": "BalSac the Jaws o' Death (segment \"Frame Narrative\")",
+        "ator": "Mike Derks",
+        "foto": "https://image.tmdb.org/t/p/w185/r9mRxHFlULratYXjwsG0TcLNBxF.jpg"
+      },
+      {
+        "personagem": "Blothar the Berserker (segment \"Frame Narrative\")",
+        "ator": "Michael Bishop",
+        "foto": "https://image.tmdb.org/t/p/w185/yZgoAxZ5skun4WrCUKSRDatuVcB.jpg"
+      },
+      {
+        "personagem": "Jizmak Da Gusha (segment \"Frame Narrative\")",
+        "ator": "Brad Roberts",
+        "foto": "https://image.tmdb.org/t/p/w185/1eMj8wchto0YrwZdUI1ZoZ33Lwk.jpg"
+      },
+      {
+        "personagem": "Beefcake the Mighty (segment \"Frame Narrative\")",
+        "ator": "Casey Orr",
+        "foto": "https://image.tmdb.org/t/p/w185/kJJFZ5zhiY3inK5TDUjlWFWTmk8.jpg"
+      },
+      {
+        "personagem": "Bonesnapper the Cave Troll (segment \"Frame Narrative\")",
+        "ator": "Bob Gorman",
+        "foto": "https://image.tmdb.org/t/p/w185/eqJZTWakanINqNQb94vXoMRTP2b.jpg"
+      },
+      {
+        "personagem": "George (segment \"Dance, Dance, Dance, Dance\")",
+        "ator": "Josh Willis",
+        "foto": "assets/avatar.png"
+      }
+    ],
+    "ondeAssistir": [],
+    "relacionados": [
+      "resident-evil",
+      "sobrenatural-agora-entre-nos",
+      "michael"
+    ]
+  },
+  {
+    "id": "os-bons-companheiros",
+    "tmdbId": 769,
+    "titulo": "Os Bons Companheiros",
+    "ano": "1990",
+    "duracao": "2h26min",
+    "generos": [
+      "Drama",
+      "Crime"
+    ],
+    "classificacao": "14",
+    "avaliacao": 8.4,
+    "nota": 4.2,
+    "numAvaliacoes": 14873,
+    "plataforma": "HBO Max",
+    "imagem": "assets/img-filmes/os-bons-companheiros.jpg",
+    "secao": "recomendados",
+    "sinopse": "A história real de Henry Hill, um garoto meio irlandês e meio siciliano do Brooklyn que é adotado por gangsters do bairro ainda jovem e sobe na hierarquia de uma família da máfia sob a orientação de Jimmy Conway.",
+    "trailerYoutubeId": "GYxxWuJE2a8",
+    "elenco": [
+      {
+        "personagem": "James Conway",
+        "ator": "Robert De Niro",
+        "foto": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "personagem": "Henry Hill",
+        "ator": "Ray Liotta",
+        "foto": "https://image.tmdb.org/t/p/w185/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg"
+      },
+      {
+        "personagem": "Tommy DeVito",
+        "ator": "Joe Pesci",
+        "foto": "https://image.tmdb.org/t/p/w185/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
+      },
+      {
+        "personagem": "Karen Hill",
+        "ator": "Lorraine Bracco",
+        "foto": "https://image.tmdb.org/t/p/w185/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+      },
+      {
+        "personagem": "Paul Cicero",
+        "ator": "Paul Sorvino",
+        "foto": "https://image.tmdb.org/t/p/w185/1gF0UskusEdDcNaBDJ2CMsz5Agi.jpg"
+      },
+      {
+        "personagem": "Frankie Carbone",
+        "ator": "Frank Sivero",
+        "foto": "https://image.tmdb.org/t/p/w185/eqvhj0iNtcsN6EJhd21Goqi1DSq.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "HBO Max",
+        "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png",
+        "url": "https://www.themoviedb.org/movie/769-goodfellas/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "HBO Max Amazon Channel",
+        "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+        "url": "https://www.themoviedb.org/movie/769-goodfellas/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Apple TV Store",
+        "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+        "url": "https://www.themoviedb.org/movie/769-goodfellas/watch?locale=BR",
+        "preco": "Alugar"
+      },
+      {
+        "nome": "Amazon Video",
+        "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+        "url": "https://www.themoviedb.org/movie/769-goodfellas/watch?locale=BR",
+        "preco": "Alugar"
+      },
+      {
+        "nome": "Google Play Movies",
+        "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png",
+        "url": "https://www.themoviedb.org/movie/769-goodfellas/watch?locale=BR",
+        "preco": "Alugar"
+      }
+    ],
+    "relacionados": [
+      "um-sonho-de-liberdade",
+      "o-poderoso-chefao",
+      "o-poderoso-chefao-parte-ii"
+    ]
+  },
+  {
+    "id": "o-senhor-dos-aneis-a-sociedade-do-anel",
+    "tmdbId": 120,
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano": "2001",
+    "duracao": "2h59min",
+    "generos": [
+      "Aventura",
+      "Fantasia",
+      "Ação"
+    ],
+    "classificacao": "12",
+    "avaliacao": 8.4,
+    "nota": 4.2,
+    "numAvaliacoes": 28577,
+    "plataforma": "Netflix",
+    "imagem": "assets/img-filmes/o-senhor-dos-aneis-a-sociedade-do-anel.jpg",
+    "secao": "recomendados",
+    "sinopse": "Após herdar um anel de seu tio, o hobbit Frodo participa da missão de salvar a Terra-Média do perverso Sauron. Ele precisa conduzir o Um Anel até a Montanha da Perdição e destruí-lo para sempre e, para isso, conta com a aliança de oito bravos companheiros contando com um mago, três hobbits, um elfo, um anão e dois homens.",
+    "trailerYoutubeId": "-L1bCeqxvY4",
+    "elenco": [
+      {
+        "personagem": "Frodo",
+        "ator": "Elijah Wood",
+        "foto": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+      },
+      {
+        "personagem": "Gandalf",
+        "ator": "Ian McKellen",
+        "foto": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+      },
+      {
+        "personagem": "Aragorn",
+        "ator": "Viggo Mortensen",
+        "foto": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+      },
+      {
+        "personagem": "Sam",
+        "ator": "Sean Astin",
+        "foto": "https://image.tmdb.org/t/p/w185/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+      },
+      {
+        "personagem": "Bilbo",
+        "ator": "Ian Holm",
+        "foto": "https://image.tmdb.org/t/p/w185/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+      },
+      {
+        "personagem": "Arwen",
+        "ator": "Liv Tyler",
+        "foto": "https://image.tmdb.org/t/p/w185/rC6f9NoDN9l2tMgiEocIvnJi2tW.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Netflix",
+        "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "url": "https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Disney Plus",
+        "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "url": "https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "HBO Max",
+        "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png",
+        "url": "https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Netflix Standard with Ads",
+        "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+        "url": "https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "HBO Max Amazon Channel",
+        "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+        "url": "https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring/watch?locale=BR",
+        "preco": "Assine"
+      }
+    ],
+    "relacionados": [
+      "avatar-aang-o-ultimo-mestre-do-ar",
+      "a-odisseia",
+      "o-senhor-dos-aneis-o-retorno-do-rei"
+    ]
+  },
+  {
+    "id": "clube-da-luta",
+    "tmdbId": 550,
+    "titulo": "Clube da Luta",
+    "ano": "1999",
+    "duracao": "2h19min",
+    "generos": [
+      "Drama",
+      "Thriller"
+    ],
+    "classificacao": "16",
+    "avaliacao": 8.4,
+    "nota": 4.2,
+    "numAvaliacoes": 33021,
+    "plataforma": "Netflix",
+    "imagem": "assets/img-filmes/clube-da-luta.jpg",
+    "secao": "recomendados",
+    "sinopse": "Um homem deprimido que sofre de insônia conhece um estranho vendedor de sabonetes chamado Tyler Durden. Eles formam um clube clandestino com regras rígidas onde lutam com outros homens cansados de suas vidas mundanas. Mas sua parceria perfeita é comprometida quando Marla chama a atenção de Tyler.",
+    "trailerYoutubeId": "dfeUzm6KF4g",
+    "elenco": [
+      {
+        "personagem": "Narrator",
+        "ator": "Edward Norton",
+        "foto": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+      },
+      {
+        "personagem": "Tyler Durden",
+        "ator": "Brad Pitt",
+        "foto": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+      },
+      {
+        "personagem": "Marla Singer",
+        "ator": "Helena Bonham Carter",
+        "foto": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+      },
+      {
+        "personagem": "Robert Paulson",
+        "ator": "Meat Loaf",
+        "foto": "https://image.tmdb.org/t/p/w185/1zkohpaG3my4qQAZGVgzgPuXwZ6.jpg"
+      },
+      {
+        "personagem": "Angel Face",
+        "ator": "Jared Leto",
+        "foto": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+      },
+      {
+        "personagem": "Richard Chesler (Regional Manager)",
+        "ator": "Zach Grenier",
+        "foto": "https://image.tmdb.org/t/p/w185/fSyQKZO39sUsqY283GXiScOg3Hi.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Netflix",
+        "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Disney Plus",
+        "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Paramount Plus",
+        "logo": "https://image.tmdb.org/t/p/w92/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+        "url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Claro tv+",
+        "logo": "https://image.tmdb.org/t/p/w92/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+        "url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Paramount+ Amazon Channel",
+        "logo": "https://image.tmdb.org/t/p/w92/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+        "url": "https://www.themoviedb.org/movie/550-fight-club/watch?locale=BR",
+        "preco": "Assine"
+      }
+    ],
+    "relacionados": [
+      "sobrevivencia",
+      "after-impact",
+      "parasita"
+    ]
+  },
+  {
+    "id": "a-hipotese-do-amor",
+    "tmdbId": 1032863,
+    "titulo": "A Hipótese do Amor",
+    "ano": "2026",
+    "duracao": "1h52min",
+    "generos": [
+      "Romance",
+      "Comédia"
+    ],
+    "classificacao": "12",
+    "avaliacao": 8.0,
+    "nota": 4.0,
+    "numAvaliacoes": 592,
+    "plataforma": "Amazon Prime Video",
+    "imagem": "assets/img-filmes/a-hipotese-do-amor.jpg",
+    "secao": "mais-assistidos",
+    "sinopse": "Olive é uma brilhante candidata ao doutorado focada em seu futuro no meio acadêmico. Mas quando ela percebe que sua melhor amiga Ahn se apaixonou por seu crush Jeremy, Olive impulsivamente beija o intimidador professor Adam Carlsen para provar que ela superou a paixonite. O que começa como um ato desesperado de amizade se transforma em um relacionamento falso com regras, limites e um acordo mutuamente benéfico. Quando o arranjo deles começa a confundir as linhas entre encenação e realidade, Olive é forçada a testar sua hipótese mais assustadora até agora: a de que o amor pode realmente valer o risco.",
+    "trailerYoutubeId": "xwdamnfS6IM",
+    "elenco": [
+      {
+        "personagem": "Olive Smith",
+        "ator": "Lili Reinhart",
+        "foto": "https://image.tmdb.org/t/p/w185/c7Wm0ZEGX6yqgjqOq4RuKMgtWEJ.jpg"
+      },
+      {
+        "personagem": "Dr. Adam Carlsen",
+        "ator": "Tom Bateman",
+        "foto": "https://image.tmdb.org/t/p/w185/6elQzmY4EJHlLvHsaeoeo2dXOQ1.jpg"
+      },
+      {
+        "personagem": "Anh Pham",
+        "ator": "Rachel Marsh",
+        "foto": "https://image.tmdb.org/t/p/w185/6R0pDuQuSf4CEtZHCRnZkqc2EAN.jpg"
+      },
+      {
+        "personagem": "Malcolm Browne",
+        "ator": "Jaboukie Young-White",
+        "foto": "https://image.tmdb.org/t/p/w185/8OYI8OqsMUpBZica4lM2odjgVH6.jpg"
+      },
+      {
+        "personagem": "Jeremy Langley",
+        "ator": "Nicholas Duvernay",
+        "foto": "https://image.tmdb.org/t/p/w185/4uwcWYbXxrxyhJbCPXshTQXQQKi.jpg"
+      },
+      {
+        "personagem": "Dr. Thomas Benton",
+        "ator": "Arty Froushan",
+        "foto": "https://image.tmdb.org/t/p/w185/zYNvzONSgyfnC4efHXh6zcrVj4d.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Amazon Prime Video",
+        "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "url": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Amazon Prime Video with Ads",
+        "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "url": "https://www.themoviedb.org/movie/1032863-the-love-hypothesis/watch?locale=BR",
+        "preco": "Assine"
+      }
+    ],
+    "relacionados": [
+      "dilwale-vai-levar-a-noiva",
+      "forrest-gump-o-contador-de-historias",
+      "titanic"
+    ]
+  },
+  {
+    "id": "a-vida-e-bela",
+    "tmdbId": 637,
+    "titulo": "A Vida é Bela",
+    "ano": "1997",
+    "duracao": "1h56min",
+    "generos": [
+      "Comédia",
+      "Drama"
+    ],
+    "classificacao": "12",
+    "avaliacao": 8.4,
+    "nota": 4.2,
+    "numAvaliacoes": 14309,
+    "plataforma": "Oldflix",
+    "imagem": "assets/img-filmes/a-vida-e-bela.jpg",
+    "secao": "recomendados",
+    "sinopse": "Durante a Segunda Guerra Mundial na Itália, o judeu Guido e seu filho Giosué são levados para um campo de concentração nazista. Afastado da mulher, ele tem que usar sua imaginação para fazer o menino acreditar que estão participando de uma grande brincadeira, com o intuito de protegê-lo do terror e da violência que os cercam.",
+    "trailerYoutubeId": "8beVLRzEqD0",
+    "elenco": [
+      {
+        "personagem": "Guido",
+        "ator": "Roberto Benigni",
+        "foto": "https://image.tmdb.org/t/p/w185/ba1Sg02XxCphu6E1dWDMAH1GzeE.jpg"
+      },
+      {
+        "personagem": "Dora",
+        "ator": "Nicoletta Braschi",
+        "foto": "https://image.tmdb.org/t/p/w185/9IeE3Iz9HXZVTrvhjSCKlR4FLxB.jpg"
+      },
+      {
+        "personagem": "Giosué",
+        "ator": "Giorgio Cantarini",
+        "foto": "https://image.tmdb.org/t/p/w185/1tKZHpVTYcw8EP3naVTZFlrOkhQ.jpg"
+      },
+      {
+        "personagem": "Zio",
+        "ator": "Giustino Durano",
+        "foto": "https://image.tmdb.org/t/p/w185/5VbG50qZNUnpx6UW7594RUlX7SZ.jpg"
+      },
+      {
+        "personagem": "Ferruccio",
+        "ator": "Sergio Bini Bustric",
+        "foto": "https://image.tmdb.org/t/p/w185/crnlLn1SxP2LqbsXNr8CQrvaiNc.jpg"
+      },
+      {
+        "personagem": "Dora's Mother",
+        "ator": "Marisa Paredes",
+        "foto": "https://image.tmdb.org/t/p/w185/71esuRUCyeSyib35mTFPkR24zH7.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Oldflix",
+        "logo": "https://image.tmdb.org/t/p/w92/86Ja8MBdaS8Fkjsegy3fQsUgNMu.png",
+        "url": "https://www.themoviedb.org/movie/637-la-vita-e-bella/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Amazon Video",
+        "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+        "url": "https://www.themoviedb.org/movie/637-la-vita-e-bella/watch?locale=BR",
+        "preco": "Alugar"
+      }
+    ],
+    "relacionados": [
+      "dilwale-vai-levar-a-noiva",
+      "parasita",
+      "forrest-gump-o-contador-de-historias"
+    ]
+  },
+  {
+    "id": "zona-zero",
+    "tmdbId": 1375646,
+    "titulo": "Zona Zero",
+    "ano": "2026",
+    "duracao": "2h02min",
+    "generos": [
+      "Terror",
+      "Ação",
+      "Ficção científica"
+    ],
+    "classificacao": "16",
+    "avaliacao": 8.1,
+    "nota": 4.0,
+    "numAvaliacoes": 1146,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/zona-zero.jpg",
+    "secao": "mais-assistidos",
+    "sinopse": "De repente, um vírus que sofre mutações rápidas é liberado em uma conferência de biologia, forçando o isolamento imediato do local. A contaminação se espalha rapidamente, e os infectados não apenas atacam, eles evoluem de formas imprevisíveis e cada vez mais perigosas. Presos nesse confinamento, um grupo de sobreviventes precisa lutar pela própria vida enquanto, a cada minuto, as regras do jogo mudam.",
+    "trailerYoutubeId": "LW6dpj1uCK8",
+    "elenco": [
+      {
+        "personagem": "Kwon Se-jeong",
+        "ator": "Jun Ji-hyun",
+        "foto": "https://image.tmdb.org/t/p/w185/qejOQBdIzN18e69yRcsiD0JQi4c.jpg"
+      },
+      {
+        "personagem": "Seo Young-cheol",
+        "ator": "Koo Kyo-hwan",
+        "foto": "https://image.tmdb.org/t/p/w185/aFwCpSKPGFqoiTStY6ljXnD5CwH.jpg"
+      },
+      {
+        "personagem": "Choi Hyun-seok",
+        "ator": "Ji Chang-wook",
+        "foto": "https://image.tmdb.org/t/p/w185/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg"
+      },
+      {
+        "personagem": "Choi Hyun-hee",
+        "ator": "Kim Shin-rok",
+        "foto": "https://image.tmdb.org/t/p/w185/x4zo2mSbehnQY80PbuldAZ7ruGm.jpg"
+      },
+      {
+        "personagem": "Kong Seol-hee",
+        "ator": "Shin Hyun-been",
+        "foto": "https://image.tmdb.org/t/p/w185/lU0yMFh5KgOEWZRThLYbB6ZI1hE.jpg"
+      },
+      {
+        "personagem": "Han Kyu-seong",
+        "ator": "Go Soo",
+        "foto": "https://image.tmdb.org/t/p/w185/77209yRtUHOEk3ILJY1rG3X3VUj.jpg"
+      }
+    ],
+    "ondeAssistir": [],
+    "relacionados": [
+      "resident-evil-bem-vindo-a-raccoon-city",
+      "matrix-resurrections",
+      "star-wars-ep2"
+    ]
+  },
+  {
+    "id": "cinema-paradiso",
+    "tmdbId": 11216,
+    "titulo": "Cinema Paradiso",
+    "ano": "1988",
+    "duracao": "2h35min",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "classificacao": "10",
+    "avaliacao": 8.4,
+    "nota": 4.2,
+    "numAvaliacoes": 5012,
+    "plataforma": "Oldflix",
+    "imagem": "assets/img-filmes/cinema-paradiso.jpg",
+    "secao": "recomendados",
+    "sinopse": "Um diretor de cinema relembra como, em sua infância, se apaixonou pelo filmes no cinema de seu vilarejo e iniciou uma profunda amizade com o projetista.",
+    "trailerYoutubeId": "JMyVSD6OvO8",
+    "elenco": [
+      {
+        "personagem": "Alfredo",
+        "ator": "Philippe Noiret",
+        "foto": "https://image.tmdb.org/t/p/w185/mWPa6A0JK3tfVRQDIzCQGEao19B.jpg"
+      },
+      {
+        "personagem": "Salvatore 'Totò' Di Vita (adult)",
+        "ator": "Jacques Perrin",
+        "foto": "https://image.tmdb.org/t/p/w185/lGbDfSdDgFg3QHgungWIDsV9uh7.jpg"
+      },
+      {
+        "personagem": "Salvatore 'Totò' Di Vita (teen)",
+        "ator": "Marco Leonardi",
+        "foto": "https://image.tmdb.org/t/p/w185/5VVhO9rPvRgKsZME2gZKtG9WgWD.jpg"
+      },
+      {
+        "personagem": "Salvatore 'Totò' Di Vita (child)",
+        "ator": "Salvatore Cascio",
+        "foto": "https://image.tmdb.org/t/p/w185/7t59ZGfLUv30DBgoUcqXXhK0t6Y.jpg"
+      },
+      {
+        "personagem": "Elena Mendola (teen) / Elena's daughter (in Director's cut)",
+        "ator": "Agnese Nano",
+        "foto": "https://image.tmdb.org/t/p/w185/gUbvX3dm8rIq58phY8jSl3oPgUe.jpg"
+      },
+      {
+        "personagem": "Maria Di Vita (young)",
+        "ator": "Antonella Attili",
+        "foto": "https://image.tmdb.org/t/p/w185/hoLib8DJzJ7fPQhtUjmo5n4ntu0.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Oldflix",
+        "logo": "https://image.tmdb.org/t/p/w92/86Ja8MBdaS8Fkjsegy3fQsUgNMu.png",
+        "url": "https://www.themoviedb.org/movie/11216-nuovo-cinema-paradiso/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Diamond Films Amazon Channel",
+        "logo": "https://image.tmdb.org/t/p/w92/yt48Eggj90oJZmbUbK3jtuo66Un.png",
+        "url": "https://www.themoviedb.org/movie/11216-nuovo-cinema-paradiso/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Apple TV Store",
+        "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+        "url": "https://www.themoviedb.org/movie/11216-nuovo-cinema-paradiso/watch?locale=BR",
+        "preco": "Alugar"
+      },
+      {
+        "nome": "Amazon Video",
+        "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+        "url": "https://www.themoviedb.org/movie/11216-nuovo-cinema-paradiso/watch?locale=BR",
+        "preco": "Alugar"
+      }
+    ],
+    "relacionados": [
+      "titanic",
+      "coracoes-jovens",
+      "meu-querido-assassino"
+    ]
+  },
+  {
+    "id": "nao-olhe-para-baixo",
+    "tmdbId": 45722,
+    "titulo": "Não Olhe Para Baixo",
+    "ano": "2008",
+    "duracao": "1h20min",
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "classificacao": "",
+    "avaliacao": 5.7,
+    "nota": 2.9,
+    "numAvaliacoes": 71,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/nao-olhe-para-baixo.jpg",
+    "secao": "mais-assistidos",
+    "sinopse": "Eloy é um adolescente que trabalha junto a seus pais. Seu trabalho consiste em distribuir lápides e figuras ornamentais pelas sepulturas. Quando seu pai morre, ele vê acelerar o tempo que o levará à fase adulta em um mundo hostil e alheio.",
+    "trailerYoutubeId": "",
+    "elenco": [
+      {
+        "personagem": "Eloy",
+        "ator": "Leandro Stivelman",
+        "foto": "https://image.tmdb.org/t/p/w185/gcY4U3d5wuCF0Kcr03vaxzlaGV6.jpg"
+      },
+      {
+        "personagem": "Elvira",
+        "ator": "Antonella Costa",
+        "foto": "https://image.tmdb.org/t/p/w185/qHavnYejcgM1qhRjFIZdtYCqy1S.jpg"
+      },
+      {
+        "personagem": "Padre de Eloy",
+        "ator": "Hugo Arana",
+        "foto": "https://image.tmdb.org/t/p/w185/aQGlaOp2n1nt8WIEEe82o6nDJSy.jpg"
+      },
+      {
+        "personagem": "Ana",
+        "ator": "Mónica Galán",
+        "foto": "https://image.tmdb.org/t/p/w185/rMkdB669zGSGJAsdNeBWu6atTDO.jpg"
+      },
+      {
+        "personagem": "",
+        "ator": "Octavio Borro",
+        "foto": "assets/avatar.png"
+      }
+    ],
+    "ondeAssistir": [],
+    "relacionados": [
+      "titanic",
+      "coracoes-jovens",
+      "meu-querido-assassino"
+    ]
+  },
+  {
+    "id": "o-senhor-dos-aneis-as-duas-torres",
+    "tmdbId": 121,
+    "titulo": "O Senhor dos Anéis: As Duas Torres",
+    "ano": "2002",
+    "duracao": "3h00min",
+    "generos": [
+      "Aventura",
+      "Fantasia",
+      "Ação"
+    ],
+    "classificacao": "12",
+    "avaliacao": 8.4,
+    "nota": 4.2,
+    "numAvaliacoes": 24744,
+    "plataforma": "Disney Plus",
+    "imagem": "assets/img-filmes/o-senhor-dos-aneis-as-duas-torres.jpg",
+    "secao": "recomendados",
+    "sinopse": "Após a captura de Merry e Pippin pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel e serão obrigados a confiar no misterioso Gollum. Enquanto isso, Aragorn, o elfo e o arqueiro Legolas e o anão Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Théoden foi vítima de uma maldição mortal de Saruman.",
+    "trailerYoutubeId": "8uwJoAj3gt8",
+    "elenco": [
+      {
+        "personagem": "Frodo",
+        "ator": "Elijah Wood",
+        "foto": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+      },
+      {
+        "personagem": "Gandalf",
+        "ator": "Ian McKellen",
+        "foto": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+      },
+      {
+        "personagem": "Aragorn",
+        "ator": "Viggo Mortensen",
+        "foto": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+      },
+      {
+        "personagem": "Sam",
+        "ator": "Sean Astin",
+        "foto": "https://image.tmdb.org/t/p/w185/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+      },
+      {
+        "personagem": "Gollum",
+        "ator": "Andy Serkis",
+        "foto": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+      },
+      {
+        "personagem": "Gimli / Treebeard (voice)",
+        "ator": "John Rhys-Davies",
+        "foto": "https://image.tmdb.org/t/p/w185/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Disney Plus",
+        "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "url": "https://www.themoviedb.org/movie/121-the-lord-of-the-rings-the-two-towers/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "HBO Max",
+        "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png",
+        "url": "https://www.themoviedb.org/movie/121-the-lord-of-the-rings-the-two-towers/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "HBO Max Amazon Channel",
+        "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+        "url": "https://www.themoviedb.org/movie/121-the-lord-of-the-rings-the-two-towers/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Apple TV Store",
+        "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+        "url": "https://www.themoviedb.org/movie/121-the-lord-of-the-rings-the-two-towers/watch?locale=BR",
+        "preco": "Alugar"
+      },
+      {
+        "nome": "Amazon Video",
+        "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+        "url": "https://www.themoviedb.org/movie/121-the-lord-of-the-rings-the-two-towers/watch?locale=BR",
+        "preco": "Alugar"
+      }
+    ],
+    "relacionados": [
+      "avatar-aang-o-ultimo-mestre-do-ar",
+      "a-odisseia",
+      "o-senhor-dos-aneis-o-retorno-do-rei"
+    ]
+  },
+  {
+    "id": "vingadores-doutor-destino",
+    "tmdbId": 1003596,
+    "titulo": "Vingadores: Doutor Destino",
+    "ano": "2026",
+    "duracao": "2h45min",
+    "generos": [
+      "Ficção científica",
+      "Ação",
+      "Aventura"
+    ],
+    "classificacao": "",
+    "avaliacao": 0.0,
+    "nota": 0.0,
+    "numAvaliacoes": 0,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/vingadores-doutor-destino.jpg",
+    "secao": "mais-assistidos",
+    "sinopse": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
+    "trailerYoutubeId": "xO4CViVPyNk",
+    "elenco": [
+      {
+        "personagem": "Victor von Doom  / Doctor Doom",
+        "ator": "Robert Downey Jr.",
+        "foto": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+      },
+      {
+        "personagem": "Steve Rogers",
+        "ator": "Chris Evans",
+        "foto": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+      },
+      {
+        "personagem": "Thor",
+        "ator": "Chris Hemsworth",
+        "foto": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+      },
+      {
+        "personagem": "Reed Richards / Mister Fantastic",
+        "ator": "Pedro Pascal",
+        "foto": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+      },
+      {
+        "personagem": "Scott Lang / Ant-Man",
+        "ator": "Paul Rudd",
+        "foto": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+      },
+      {
+        "personagem": "Sam Wilson / Captain America",
+        "ator": "Anthony Mackie",
+        "foto": "https://image.tmdb.org/t/p/w185/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+      }
+    ],
+    "ondeAssistir": [],
+    "relacionados": [
+      "matrix-resurrections",
+      "star-wars-ep2",
+      "homem-aranha-aranhaverso"
+    ]
+  },
+  {
+    "id": "cidade-de-deus",
+    "tmdbId": 598,
+    "titulo": "Cidade de Deus",
+    "ano": "2002",
+    "duracao": "2h10min",
+    "generos": [
+      "Drama",
+      "Crime"
+    ],
+    "classificacao": "16",
+    "avaliacao": 8.4,
+    "nota": 4.2,
+    "numAvaliacoes": 8516,
+    "plataforma": "Netflix",
+    "imagem": "assets/img-filmes/cidade-de-deus.jpg",
+    "secao": "recomendados",
+    "sinopse": "Buscapé é um jovem morador da Cidade de Deus que cresce em meio à violência. Com medo de se tornar um bandido, enxerga na fotografia uma oportunidade de ter uma vida digna.",
+    "trailerYoutubeId": "pUt-yPxOZqk",
+    "elenco": [
+      {
+        "personagem": "Buscapé",
+        "ator": "Alexandre Rodrigues",
+        "foto": "https://image.tmdb.org/t/p/w185/iExs5h6LeFmdR3kDtSS5xYU1Qgx.jpg"
+      },
+      {
+        "personagem": "Zé Pequeno / Dadinho",
+        "ator": "Leandro Firmino",
+        "foto": "https://image.tmdb.org/t/p/w185/aEzWJgEzId04EP8C2UFQaF28WTW.jpg"
+      },
+      {
+        "personagem": "Bené",
+        "ator": "Phellipe Haagensen",
+        "foto": "https://image.tmdb.org/t/p/w185/3dxy4unadLTAb6aUQUyX2r3AkE.jpg"
+      },
+      {
+        "personagem": "Dadinho",
+        "ator": "Douglas Silva",
+        "foto": "https://image.tmdb.org/t/p/w185/7C2ZoLBU0W2gwnGbNRbi1cyIU2h.jpg"
+      },
+      {
+        "personagem": "Cabeleira",
+        "ator": "Jonathan Haagensen",
+        "foto": "https://image.tmdb.org/t/p/w185/cha3GxI1MfbCjc973iUNKUvopQF.jpg"
+      },
+      {
+        "personagem": "Sandro Cenoura",
+        "ator": "Matheus Nachtergaele",
+        "foto": "https://image.tmdb.org/t/p/w185/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg"
+      }
+    ],
+    "ondeAssistir": [
+      {
+        "nome": "Netflix",
+        "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "url": "https://www.themoviedb.org/movie/598-cidade-de-deus/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "HBO Max",
+        "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png",
+        "url": "https://www.themoviedb.org/movie/598-cidade-de-deus/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Globoplay",
+        "logo": "https://image.tmdb.org/t/p/w92/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+        "url": "https://www.themoviedb.org/movie/598-cidade-de-deus/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "Netflix Standard with Ads",
+        "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+        "url": "https://www.themoviedb.org/movie/598-cidade-de-deus/watch?locale=BR",
+        "preco": "Assine"
+      },
+      {
+        "nome": "HBO Max Amazon Channel",
+        "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+        "url": "https://www.themoviedb.org/movie/598-cidade-de-deus/watch?locale=BR",
+        "preco": "Assine"
+      }
+    ],
+    "relacionados": [
+      "um-sonho-de-liberdade",
+      "o-poderoso-chefao",
+      "o-poderoso-chefao-parte-ii"
+    ]
+  },
+  {
+    "id": "moana",
+    "tmdbId": 1108427,
+    "titulo": "Moana",
+    "ano": "2026",
+    "duracao": "1h55min",
+    "generos": [
+      "Família",
+      "Fantasia",
+      "Comédia",
+      "Aventura"
+    ],
+    "classificacao": "10",
+    "avaliacao": 7.5,
+    "nota": 3.8,
+    "numAvaliacoes": 901,
+    "plataforma": "",
+    "imagem": "assets/img-filmes/moana.jpg",
+    "secao": "mais-assistidos",
+    "sinopse": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+    "trailerYoutubeId": "GLWdB7tzVms",
+    "elenco": [
+      {
+        "personagem": "Moana",
+        "ator": "Catherine Lagaʻaia",
+        "foto": "https://image.tmdb.org/t/p/w185/tUyT2VfVuRJPqeAbLhFFOtZa4fH.jpg"
+      },
+      {
+        "personagem": "Maui",
+        "ator": "Dwayne Johnson",
+        "foto": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+      },
+      {
+        "personagem": "Gramma Tala",
+        "ator": "Rena Owen",
+        "foto": "https://image.tmdb.org/t/p/w185/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+      },
+      {
+        "personagem": "Chief Tui",
+        "ator": "John Tui",
+        "foto": "https://image.tmdb.org/t/p/w185/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+      },
+      {
+        "personagem": "Sina",
+        "ator": "Frankie Adams",
+        "foto": "https://image.tmdb.org/t/p/w185/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+      },
+      {
+        "personagem": "Tamatoa (voice)",
+        "ator": "Jemaine Clement",
+        "foto": "https://image.tmdb.org/t/p/w185/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+      }
+    ],
+    "ondeAssistir": [],
+    "relacionados": [
+      "como-magica",
+      "coyote-vs-acme",
+      "toy-story-5"
+    ]
   }
 ]
