@@ -161,7 +161,18 @@ header {
 /* ---------- Abas de perfil, mensagens e cadastro ---------- */
 [hidden] { display: none !important; }
 
-.login-card { width: min(420px, 100%); }
+.login-card { 
+    width: min(460px, 100%);
+    max-width: 100%;    
+}
+
+.login-card > img {
+    display: block;
+    width: min(100%, 440px);
+    max-height: 300px;
+    object-fit: contain;
+    margin: 0 auto 30px;
+}
 
 .perfil-tabs {
     display: flex;
