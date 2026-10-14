@@ -24,6 +24,7 @@ html {
     background-color: #480C0C;
     height: 10vh;
     padding-left: 20px;
+    padding-right: 32px;
     position: sticky;
     z-index: 3;
     top: 0;
@@ -98,7 +99,7 @@ html {
     position: relative;
     display: flex;
     align-items: center;
-    gap: 12.5%;
+    gap: 12px;
     justify-content: center;
 }
 
